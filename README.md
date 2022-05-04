@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @IntheDen
 - 👀 I’m a full stack software engineer with the drive to make an impact through my products and applications!
--
 - ❗ Feel free to message me, I'm always looking for opportunities to collaborate!
-
-- 📫 How to reach me ...
 - 📧 Email: dennyzheng121@gmail.com
 - 🔵 LinkedIn: https://www.linkedin.com/in/denny-zheng/
 
